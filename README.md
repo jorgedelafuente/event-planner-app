@@ -20,6 +20,8 @@ GraphQL
 
 # Get Started
 
-As a guest user you can login with the following credentials (user@user.com 123456).
+As a guest user you can login with the credentials found below: 
+Guest credentials: guest@guest.com 123456
+
 
 Access to repo available on request.
