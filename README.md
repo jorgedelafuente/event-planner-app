@@ -11,12 +11,12 @@ Redux\
 Axios\
 Google Maps API\
 Styled Components\
-Storybooks\
+Storybooks
 
 Node\
 Express\
 Mongo DB\
-GraphQL\
+GraphQL
 
 # Get Started
 
