@@ -3,7 +3,7 @@
 An app designed to plan events and keep track of RSVPs.
 The main features include creating and joining events with a fully functional user authentication system.
 
-URL : http://www.eventplannerapp.net/
+URL : https://www.eventplannerapp.net/
 
 # Tech Stack
 React\
