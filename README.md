@@ -11,6 +11,7 @@ Redux\
 Axios\
 Google Maps API\
 Styled Components\
+Framer Motion\
 Storybooks
 
 Node\
